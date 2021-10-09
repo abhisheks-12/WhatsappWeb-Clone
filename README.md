@@ -1,6 +1,8 @@
 # WhatsappWeb-Clone
 Live - https://whatsapp-web-2676e.web.app
-Stack - React JS , Context API , Firebase , FiresStore 
+
+
+Stack - React JS , Context API , Firebase , FiresStore , React Routers
 
 Features -
 1) Create Room
